@@ -1,0 +1,52 @@
+/*GLOBAL*/
+:root{
+    color:black;
+}
+::content{
+    font-family:monospace ;
+}
+/*HEADER*/
+head{
+    display: flex;
+    align-items: center;
+}
+/*Acceuil*/
+nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    position: center;
+    top: 200px;
+    width: 100px; 
+    
+}
+.navbar ul a{
+    background-color: rgb(112,112,112,0.5);
+    
+    height: 45px;
+    color: white;
+    
+    position: static;
+    padding-top: 10px;
+    font-weight: 20px;
+}
+.navbar ul li a{
+    display: flex;
+    font-size: inherit;
+    margin: 1.svb;
+    text-align: center;
+    transform: translateX(-50px);
+    transition: 1s ease;
+    color: blue;
+    line-height: normal;
+    word-spacing: 10%;
+    text-transform: none;
+    position: relative  ;
+      text-transform: capitalize;
+      
+}
+.navbar img{
+    W B
+}
+
+    
